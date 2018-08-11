@@ -1,0 +1,6 @@
+[submodule "external_libs/CppUTest"]
+	path = external_libs/CppUTest
+	url = git@github.com:cpputest/cpputest.git
+[submodule "external_libs/mbedTLS"]
+	path = external_libs/mbedTLS
+	url = git@github.com:ARMmbed/mbedtls.git
